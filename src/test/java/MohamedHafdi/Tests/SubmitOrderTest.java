@@ -28,7 +28,6 @@ import MohamedHafdi.pageobjects.PaymentOrder;
 import MohamedHafdi.pageobjects.ProductCatalogue;
 
 //@Listeners(MohamedHafdi.TestComponents.Listeners.class)
-//Mohamed Hafdi check with GitHub WebHook
 public class SubmitOrderTest extends BaseTest {
 
 		
